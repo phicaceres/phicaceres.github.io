@@ -15,7 +15,7 @@ body {
   letter-spacing: 5px;
 }
 #main-header {
-  margin-top: 25%;
+  margin-top: 30%;
 }
 #btn-view-merchandise {
   background-color: #5cbc81;
@@ -27,5 +27,16 @@ body {
 #line {
   border-left: 0.5px solid black;
   height: 70px;
-  margin-top: 25%;
+  margin-top: 30%;
+}
+#navbar {
+  margin-top: 15%;
+}
+
+a:hover,
+a:visited,
+a:link,
+a:active {
+  text-decoration: none;
+  color: black;
 }
