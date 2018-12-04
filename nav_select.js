@@ -13,10 +13,10 @@ $(document).ready(function() {
     $(this).removeClass("nav-hover");
   });
 
-  $("#order").mouseenter(function() {
+  $("#aboutus").mouseenter(function() {
     $(this).addClass("nav-hover");
   });
-  $("#order").mouseleave(function() {
+  $("#aboutus").mouseleave(function() {
     $(this).removeClass("nav-hover");
   });
 });
